@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "tagline": "A first week project for General Assembly, it's a working Tic Tac Toe game on a chalkboard theme, built in HTML/CSS/JavaScript.",
+  "body": "### Tic Tac Toe Game\r\nUsing a JavaScript object to store player positions on a grid, this project links that game logic to an HTML page containing overlapping, matching play spaces, one containing an image of a tic tac toe grid drawn on a chalkboard, and one containing the CSS-drawn x's and o's.  \r\n\r\n### Includes Sound!\r\nBe sure to listen with your sound turned up!  Includes chalkboard marking sounds for each player and a sarcastic-sounding celebration sound at the end.\r\n\r\n### Authors and Contributors\r\nCreated by @mnorelli in May 2016.  Game logic inspired by @GA-WDI Fundamentals lessons.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
